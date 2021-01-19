@@ -1,6 +1,5 @@
 const path = require("path");
 const fs = require("fs");
-//require express
 const express = require("express");
 
 //create instance of express
