@@ -1,4 +1,8 @@
+//get data
 const db = require("../db/db.json");
+//unique user id
+import { v4 as uuidv4 } from 'uuid';
+
 
 module.exports = function(app) {
 
@@ -14,6 +18,7 @@ module.exports = function(app) {
     });
 
     //delete data
+    //use this for unique id => uuidv4(); 
     app.delete("/api/notes/:id", function(req, res) {
         const noteId = req.params.id;
 
