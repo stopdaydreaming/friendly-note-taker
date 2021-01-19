@@ -17,7 +17,8 @@ This app is for users that need to keep track of a lot of information. It's easy
 2. Navigate to the location of the code downloaded
 3. Double-click on the html file provided in the downloaded code to preview
 ### Steps required to run online
-1. Click the "VIEW SITE" link at the bottom of this README
+1. Click the "VIEW SITE" link  here
+[VIEW DEMO](https://serene-everglades-37180.herokuapp.com/)  
 
 ## Usage 
 This code should be used for the purpose of creating/editing code for a README generator. This code has not been deployed to a live site. It must be run locally.
