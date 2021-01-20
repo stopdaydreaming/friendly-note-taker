@@ -21,11 +21,13 @@ This app is for users that need to keep track of a lot of information. It's easy
 
 ## Usage 
 This code should be used for the purpose of creating/editing code for a README generator. This code has not been deployed to a live site. It must be run locally.
-![Note Taker](screenshot.png)
+![Note Taker 1](screenshot.png)
+![Note Taker 2](screenshot2.png)
 
 
 ## Credits
 1 contributor: @stopdaydreaming  
+Special thanks to my amazing tutor.
 
 ## License
 Copyright (c) Friendly Note Taker. All rights reserved.
