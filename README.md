@@ -20,7 +20,7 @@ This app is for users that need to keep track of a lot of information. It's easy
 1. Click here to [VIEW DEMO](https://friendly-note-taker.herokuapp.com/)  
 
 ## Usage 
-This code should be used for the purpose of creating/editing code for a README generator. This code has not been deployed to a live site. It must be run locally.
+This code should be used for the purpose of creating/editing code for a note taker. This code has not been deployed to a live site. It must be run locally.
 ![Note Taker 1](screenshot.png)
 ![Note Taker 2](screenshot2.png)
 
